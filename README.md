@@ -1,6 +1,6 @@
 ## Content
 
-[Model Merging](#model-merging)
+[Model Merging](#model-merging)  
 [Multimodal Clustering](#multimodal-clustering)
 
 ## Model Merging
